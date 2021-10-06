@@ -1,0 +1,15 @@
+{
+  "name": "yams",
+  "version": "1.0.0",
+  "description": "Messaging app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "nextjs": "^0.0.3",
+    "tailwindcss": "^2.2.16"
+  }
+}
